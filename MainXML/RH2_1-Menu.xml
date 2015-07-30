@@ -14,6 +14,18 @@
    <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u</externallink>
 </channel>
   </channels>
+  
+  <channels>
+
+<channel>
+      <name>[COLOR lime]Crew Lists[/COLOR]</name>
+  <thumbnail>http://i.ytimg.com/vi/HdmqDLnW2uE/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://shadowcrew.info/repo/Main%20XML.xml</externallink>
+</channel>
+  </channels>
+
 
   
 <channels>
@@ -70,7 +82,7 @@
 
 <channel>
       <name>[COLOR lime]Husham Canada TV[/COLOR]</name>
-  <thumbnail>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</thumbnail>
+  <thumbnail>http://cdn.slashgear.com/wp-content/uploads/2013/10/canadiantv.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/canada.m3u</externallink>
@@ -89,7 +101,6 @@
    <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/ArabicIPTV.m3u</externallink>
 </channel>
   </channels>
-
 
   
 <channels>
